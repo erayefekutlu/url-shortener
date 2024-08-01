@@ -35,7 +35,7 @@ Welcome to the URL Shortener project! This application allows you to convert lon
 2. **Copy Files to Server**
     Move the project files to your local server's htdocs directory (or any appropriate directory).
 
-3. **Configure Database (If applicable)**
+3. **Configure Database**
     Edit config/config.php and enter your database connection details.
    
 4. **Start Apache and MySQL Services**
@@ -89,7 +89,7 @@ URL Kısaltıcı projesine hoş geldiniz! Bu uygulama, uzun URL'leri modern ve g
 2. **Dosyaları Sunucuya Kopyalayın**
     Proje dosyalarını yerel sunucunuzun htdocs dizinine (veya uygun herhangi bir dizine) taşıyın.
 
-3. **Veritabanını Yapılandırın (Varsa)**
+3. **Veritabanını Yapılandırın**
     config/config.php dosyasını düzenleyin ve veritabanı bağlantı ayrıntılarınızı girin.
    
 4. **Apache ve MySQL Hizmetlerini başlatın**
