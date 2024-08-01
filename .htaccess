@@ -1,0 +1,5 @@
+RewriteEngine On
+ErrorDocument 404 http://localhost/r10/url/404.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([a-zA-Z0-9]{6})$ index.php?code=$1 [L]
