@@ -85,7 +85,7 @@ URL Kısaltıcı projesine hoş geldiniz! Bu uygulama, uzun URL'leri modern ve g
 
 1. **Depoyu Klonlayın**
    ``` bash
-   git klonu https://github.com/erayefekutlu/url-shortener.git
+   git clone https://github.com/erayefekutlu/url-shortener.git
 2. **Dosyaları Sunucuya Kopyalayın**
     Proje dosyalarını yerel sunucunuzun htdocs dizinine (veya uygun herhangi bir dizine) taşıyın.
 
